@@ -1,0 +1,1 @@
+Echo "Today Is %date%"
